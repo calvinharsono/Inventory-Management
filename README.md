@@ -15,10 +15,10 @@ CREATE TABLE items (
 );
 ```
 ## Available Scripts
-
+after you start you sql
 In the backend directory you can run:
 
-### `npm install express mysql body-parser cors.`
+### `npm install express mysql body-parser cors`
 
 install the dependencies for the back end
 
